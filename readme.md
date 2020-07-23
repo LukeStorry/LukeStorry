@@ -14,7 +14,7 @@ In my spare time (when I'm not out on the water, up a mountain, or curled on the
 
 ### Find me at:
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://lukestorry.co.uk/)
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/internetexplorer.svg' alt='website' height='40'>](https://lukestorry.co.uk/)
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/LukeStorry)
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/LukeStorry/)
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/LukeStorry)
