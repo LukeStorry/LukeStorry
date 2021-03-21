@@ -8,7 +8,7 @@ I currently work at [Ghyston](https://www.ghyston.com/), creating and maintainin
 In my spare time (when I'm not out on the water, up a mountain, or curled on the sofa reading a trashy crime|fantasy novel), I enjoy using the latest technologies to build simple, performant and elegant apps|software|tools.
 
 
-*   **Current go-to stack:** [Eleventy](https://www.11ty.dev/) for static generation, or [Gatsby](https://www.gatsbyjs.org/) for SPAs, with [TailwindCSS](https://tailwindcss.com/) utility-styling, hosted on [Netlify](https://www.netlify.com/) for CDN, CMS, and serverless functions. 
+*   **Current go-to stack:** [Eleventy](https://www.11ty.dev/) for static generation, or [NextJS](https://nextjs.org/) for webapps, with [TailwindCSS](https://tailwindcss.com/) utility-styling, hosted on [Netlify](https://www.netlify.com/) for CDN, CMS, and serverless functions. 
 *   **Most experienced in:** [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) for games & enterprise software, [Python](https://www.python.org/) for machine-learning cloud systems, and [React](https://reactjs.org/) for heavy-duty UIs.
 *   **Learning:** [Svelte](https://svelte.dev/) for charming web-apps, [Rust](https://www.rust-lang.org/) for speedy CLIs & WASM games. 
 
