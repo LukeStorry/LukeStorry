@@ -5,7 +5,7 @@
 I currently work at [Let's Do This](https://www.letsdothis.com/), the world’s leading marketplace for endurance events.
 
 
-In my spare time (when I'm not out on the water or up a mountain, I enjoy using the latest technologies to build simple, performant and elegant apps|software|tools.
+In my spare time (when I'm not out on the water or up a mountain) I enjoy using the latest technologies to build simple, performant and elegant apps|software|tools.
 
 
 *   **Current go-to stack:** [Eleventy](https://www.11ty.dev/) for static generation, or [NextJS](https://nextjs.org/) for webapps, with [TailwindCSS](https://tailwindcss.com/) utility-styling, hosted on [Netlify](https://www.netlify.com/) for CDN, CMS, and serverless functions. 
